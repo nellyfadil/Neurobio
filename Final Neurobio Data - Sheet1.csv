@@ -1,0 +1,95 @@
+donor_id,name,sex,apo_e4_allele,dsm_iv_clinical_diagnosis,nincds_arda_diagnosis,MAPT_intensity_HIP
+309335438,H14.09.001,M,N,No Dementia,No Dementia,6.107
+309335439,H14.09.002,M,Y,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.017
+309335440,H14.09.003,M,N,No Dementia,No Dementia,5.967
+309335441,H14.09.004,M,N,No Dementia,No Dementia,5.841
+309335442,H14.09.005,F,Y,Multiple Etiologies,Probable Alzheimer's Disease,6.058
+309335443,H14.09.006,F,N,No Dementia,No Dementia,5.817
+309335444,H14.09.007,M,N,Multiple Etiologies,Probable Alzheimer's Disease,5.873
+309335445,H14.09.008,M,N,Multiple Etiologies,Probable Alzheimer's Disease,5.888
+309335446,H14.09.009,M,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,6.05
+309335447,H14.09.010,M,Y,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.95
+309335449,H14.09.012,F,Y,Multiple Etiologies,Probable Alzheimer's Disease,5.848
+309335451,H14.09.014,M,N,No Dementia,No Dementia,5.873
+309335452,H14.09.015,M,N/A,No Dementia,No Dementia,5.968
+309335454,H14.09.017,M,N,No Dementia,No Dementia,6.023
+309335455,H14.09.018,M,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.829
+309335456,H14.09.019,F,N,No Dementia,No Dementia,6.031
+309335457,H14.09.020,F,N,No Dementia,No Dementia,5.962
+309335460,H14.09.023,M,N,No Dementia,No Dementia,5.926
+309335461,H14.09.024,M,N,No Dementia,No Dementia,6.131
+309335462,H14.09.025,M,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.888
+309335463,H14.09.026,M,N,Vascular,"Dementia, Type Unknown",6.046
+309335464,H14.09.027,M,N,No Dementia,No Dementia,6
+309335465,H14.09.028,M,N,No Dementia,No Dementia,5.784
+309335466,H14.09.029,F,N,Multiple Etiologies,Probable Alzheimer's Disease,5.662
+309335467,H14.09.030,F,Y,No Dementia,No Dementia,5.878
+309335468,H14.09.031,F,N,Other or Unknown Cause,"Dementia, Type Unknown",5.967
+309335469,H14.09.032,F,N,No Dementia,No Dementia,5.684
+309335470,H14.09.033,M,Y,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.82
+309335471,H14.09.034,M,Y,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.841
+309335474,H14.09.037,M,N,No Dementia,No Dementia,6.031
+309335475,H14.09.038,M,N,No Dementia,No Dementia,6.165
+309335478,H14.09.041,F,N,No Dementia,No Dementia,5.802
+309335479,H14.09.042,F,N/A,Alzheimer's Disease Type,Probable Alzheimer's Disease,6.012
+309335481,H14.09.044,F,N/A,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.995
+309335482,H14.09.045,M,Y,No Dementia,No Dementia,5.805
+309335483,H14.09.046,M,N,No Dementia,No Dementia,6.188
+309335484,H14.09.047,F,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.903
+309335485,H14.09.048,F,Y,Multiple Etiologies,Probable Alzheimer's Disease,5.31
+309335486,H14.09.049,M,N,No Dementia,No Dementia,6.025
+309335487,H14.09.050,M,N,No Dementia,No Dementia,6.02
+309335488,H14.09.051,F,N,No Dementia,No Dementia,6.101
+309335489,H14.09.052,F,N,No Dementia,No Dementia,6.026
+309335490,H14.09.053,M,N,No Dementia,No Dementia,5.981
+309335491,H14.09.054,M,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,6.061
+309335492,H14.09.055,F,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.995
+309335493,H14.09.056,F,N/A,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.907
+309335494,H14.09.057,M,Y,No Dementia,No Dementia,5.856
+309335495,H14.09.058,M,N,No Dementia,No Dementia,6.187
+309335496,H14.09.059,F,N,Other Medical,"Dementia, Type Unknown",5.949
+309335497,H14.09.060,F,N/A,No Dementia,No Dementia,5.649
+326765648,H14.09.061,F,N,Multiple Etiologies,Probable Alzheimer's Disease,5.822
+326765649,H14.09.062,F,Y,No Dementia,No Dementia,5.893
+326765650,H14.09.063,M,N,Multiple Etiologies,"Dementia, Type Unknown",6.045
+326765651,H14.09.064,M,N,Vascular,Probable Alzheimer's Disease,6
+326765652,H14.09.065,M,N,No Dementia,No Dementia,5.933
+326765653,H14.09.066,M,N,Multiple Etiologies,Probable Alzheimer's Disease,6.136
+326765654,H14.09.067,M,Y,Vascular,"Dementia, Type Unknown",5.85
+326765655,H14.09.068,M,Y,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.798
+326765656,H14.09.069,M,N,No Dementia,No Dementia,5.97
+326765657,H14.09.070,M,N,No Dementia,No Dementia,5.846
+326765658,H14.09.071,F,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.968
+326765659,H14.09.072,F,N,No Dementia,No Dementia,5.778
+326765661,H14.09.074,F,N,No Dementia,No Dementia,6.049
+326765662,H14.09.075,F,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.859
+326765663,H14.09.076,F,N,No Dementia,No Dementia,5.841
+326765665,H14.09.078,M,N,No Dementia,No Dementia,6.159
+326765667,H14.09.080,M,N,No Dementia,No Dementia,6.146
+326765668,H14.09.081,M,Y,No Dementia,No Dementia,5.701
+326765669,H14.09.082,M,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.723
+326765670,H14.09.083,M,N,Other Medical,"Dementia, Type Unknown",6.135
+326765671,H14.09.084,M,N,No Dementia,No Dementia,5.885
+326765672,H14.09.085,F,N,No Dementia,No Dementia,5.943
+326765673,H14.09.086,F,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.762
+326765674,H14.09.087,F,N/A,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.613
+326765675,H14.09.088,F,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,6.015
+326765676,H14.09.089,F,N/A,Vascular,"Dementia, Type Unknown",5.9
+326765677,H14.09.090,F,N,No Dementia,No Dementia,5.841
+326765678,H14.09.091,M,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,6.115
+326765679,H14.09.092,M,Y,Other Medical,Probable Alzheimer's Disease,6.073
+326765680,H14.09.093,M,N,Other or Unknown Cause,"Dementia, Type Unknown",5.949
+326765681,H14.09.094,M,N,No Dementia,No Dementia,5.78
+326765682,H14.09.095,M,N,No Dementia,No Dementia,5.733
+326765683,H14.09.096,M,N,No Dementia,No Dementia,6.078
+326765686,H14.09.099,M,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.949
+326765687,H14.09.100,M,N,Multiple Etiologies,Probable Alzheimer's Disease,5.997
+326765688,H14.09.101,F,N,No Dementia,No Dementia,5.987
+326765689,H14.09.102,F,N,No Dementia,No Dementia,5.987
+467056391,H15.09.103,F,N,No Dementia,No Dementia,5.954
+467056397,H15.09.104,F,N,No Dementia,No Dementia,6.034
+467056405,H15.09.106,M,N,No Dementia,No Dementia,6.159
+467056406,H15.09.107,F,Y,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.997
+467056407,H15.09.108,F,N,No Dementia,No Dementia,5.811
+467056408,H15.09.109,F,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.706
+467056409,H15.09.110,F,N,Alzheimer's Disease Type,Probable Alzheimer's Disease,5.846
